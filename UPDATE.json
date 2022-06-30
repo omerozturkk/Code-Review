@@ -1,0 +1,9 @@
+{
+    "Id":"{0}",    
+    "Status":"{1}",
+    "RPADescription":"{2}",
+    "InvoiceRegistrationNo":"{3}",
+    "UserDescription":"{4}",
+    "StatusDescription":"{5}",
+    "InvoicePreRegistrationNo":"{6}"
+}
